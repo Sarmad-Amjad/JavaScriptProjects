@@ -19,6 +19,7 @@ function showSuccess(input) {
     formControl.className = 'form-control success';
 }
 
+        );
 //This is an event listener for the form submit
 form.addEventListener('submit', function (e) {
     e.preventDefault();
